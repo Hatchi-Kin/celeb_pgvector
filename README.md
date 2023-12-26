@@ -4,7 +4,7 @@
 docker-compose up -d
 ```
 
-- Pour remplir la bdd, run all cell dans bordel/load_db_with_embeddings.ipynb
+- Pour remplir la bdd,  :anger: run all cell dans bordel/load_db_with_embeddings.ipynb   :warning:
 
 - Pour lancer l'app
 ```bash
