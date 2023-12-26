@@ -19,7 +19,7 @@ python app.py
 - puis se rendre sur localhost:5000
 
 
-# repos de references
+## repos de references
 
 https://github.com/pgvector/pgvector
 
