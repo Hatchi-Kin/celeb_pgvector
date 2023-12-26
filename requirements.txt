@@ -4,12 +4,11 @@ pandas
 scikit-learn>=1.3.2
 tensorflow>=2.14.0
 mtcnn>=0.1.1
-
 keras-facenet>=0.3.2
-
-sqlalchemy-pgvector
+SQLAlchemy>=2.0.23
 pgvector
-
+psycopg2-binary
 Flask>=3.0.0
 fastapi>=0.106.0 
 uvicorn>=0.25.0 
+Pillow>=10.1.0 
