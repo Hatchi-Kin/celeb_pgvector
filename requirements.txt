@@ -10,6 +10,6 @@ keras-facenet>=0.3.2
 sqlalchemy-pgvector
 pgvector
 
-
+Flask>=3.0.0
 fastapi>=0.106.0 
 uvicorn>=0.25.0 
