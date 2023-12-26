@@ -23,7 +23,7 @@ python app.py
 ```
 - puis se rendre sur http://127.0.0.1:5000/
 
-- Pour stop tous les containers en cours
+- Pour stop tous les cconteneurs en cours
 ```bash
 sudo docker stop $(sudo docker ps -a -q) 
 ```
